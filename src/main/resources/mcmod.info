@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dtech",
+  "name": "Dimensional Tech Mod",
+  "description": "Dimensional Technology mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TFBC"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
